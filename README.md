@@ -2,6 +2,22 @@
 
 A simple MERN-style student management application.
 
+## Screenshot
+
+![Student app screenshot](screenshort/image.png)
+
+## Frontend
+
+In a separate terminal, install dependencies and start the Vite development server:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open the URL printed in the terminal (usually `http://localhost:5173`). Make sure the backend is running as well.
+
 ## Backend
 
 The backend is an Express.js API that stores student records in MongoDB.
