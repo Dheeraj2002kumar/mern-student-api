@@ -1,4 +1,4 @@
-# MERN Student App
+# MERN Student API
 
 A simple MERN-style student management application.
 
